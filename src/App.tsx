@@ -1,10 +1,10 @@
-
-import './App.css';
+import "./App.css";
+import AppRouting from "./routing";
 
 function App() {
   return (
     <div>
-      Jose Tolentino
+      <AppRouting />
     </div>
   );
 }
